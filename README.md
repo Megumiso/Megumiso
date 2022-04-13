@@ -1,15 +1,31 @@
 ### Hi there 👋
 ### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
+
+デザインとかできないのでプロフィールきれいにできません！！
+
+### やってること
+大体はプライベートなOrganizationでプライベートでコードを書いています。  
+パブリックになってるのは大体自分用か知り合い用に書いてあるもので公開しても問題ないものだけです。
+
+### What am I doing
+
+I write mostly on a private organization.  
+Public repos are wrote for my friends or myself.
+
+
+### 言語/Language
+
+しゃべる/Speak: 🇯🇵日本語(Japanese) 🇺🇸アメリカ英語(English US)  
+書く/Writing:  🇯🇵日本語(Japanese) 🇺🇸アメリカ英語(English US)
+
+フロントエンド/Frontend: JavaScript, Vue.js  
+バックエンド/Backend: Rust, PHP  
+全部/Everything: Rust, Java
+
+インフラ/Infrastructure: Linode
+
+使ったことある言語/Language that I used but not listed:  
+Elixir, Ruby
 
 
 <!--
