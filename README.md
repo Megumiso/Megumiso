@@ -24,10 +24,13 @@ That means it contains bad quality codes.
 バックエンド/Backend: Rust, PHP  
 全部/Everything: Rust, Java
 
-インフラ/Infrastructure: Linode
+インフラ/Infrastructure: Linode, Wasabi
 
 使ったことある言語/Language that I used but not listed:  
 Elixir, Ruby
+
+使ったことあるインフラ/Inftastrucure that I used:  
+AWS, Sakura(VPS, Cloud), Conoha, OVH
 
 
 <!--
