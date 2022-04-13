@@ -5,12 +5,14 @@
 
 ### やってること
 大体はプライベートなOrganizationでプライベートでコードを書いています。  
-パブリックになってるのは大体自分用か知り合い用に書いてあるもので公開しても問題ないものだけです。
+パブリックになってるのは大体自分用か知り合い用に書いてあるもので公開しても問題ないものだけです。  
+つまり書き方的によくないコードも混ざってます。
 
 ### What am I doing
 
 I write mostly on a private organization.  
-Public repos are wrote for my friends or myself.
+Public repos are wrote for my friends or myself.  
+That means it contains bad quality codes.
 
 
 ### 言語/Language
